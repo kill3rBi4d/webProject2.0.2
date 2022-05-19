@@ -18,10 +18,15 @@
 
     // Sticky Navbar
     $(window).scroll(function () {
+        let logoEl = document.querySelector('.logo');
         if ($(this).scrollTop() > 45) {
             $('.navbar').addClass('sticky-top shadow-sm');
+            if(logoEl != null)
+                logoEl.src = '/img/logo/logo-1.svg'
         } else {
             $('.navbar').removeClass('sticky-top shadow-sm');
+            if(logoEl != null)
+                logoEl.src = '/img/logo/logo-0.svg'
         }
     });
     
