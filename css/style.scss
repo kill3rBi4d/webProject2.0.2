@@ -1,11 +1,18 @@
 /********** Template CSS **********/
 :root {
     --primary: #6222CC;
-    --secondary: #FBA504;
+    --secondary: #ff9900;
     --light: #F6F4F9;
     --dark: #04000B;
 }
 
+body{
+    overflow-x: hidden;
+    margin: 0%;
+}
+.sub{
+    color: var(--primary) !important;
+}
 
 /*** Spinner ***/
 #spinner {
@@ -24,8 +31,8 @@
 .back-to-top {
     position: fixed;
     display: none;
-    right: 45px;
-    bottom: 45px;
+    right: 30px;
+    bottom: 90px;
     z-index: 99;
 }
 
@@ -143,6 +150,7 @@ h6,
 
         .logo1{
             display: block;
+            width: 140px;
         }
         .logo{
             display: none;
@@ -188,6 +196,7 @@ h6,
         }
         .logo{
             display: block;
+            width: 180px;
         }
     }
     
@@ -356,7 +365,16 @@ h6,
     background-repeat: no-repeat;
 }
 
-
+/** Disabled **/
+.project{
+    display: none !important;
+}
+.team{
+    display: none !important;
+}
+.testimonial{
+    display: none !important;
+}
 /*** Service ***/
 .service-item {
     position: relative;
@@ -541,6 +559,29 @@ h6,
         center top,
         center center;
     background-repeat: no-repeat;
+
+
+    .select {
+        /* styling */
+        background-color: rgba(255, 255, 255, 0.116);
+        border: none;
+        border-radius: 4px;
+        display: inline-block;
+        font: inherit;
+        padding: 0.5em 0.5em 0.5em 0.5em;
+      
+        /* reset */
+        margin: 0;      
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+
+        img{
+            width: 30px;
+        }
+      }
 }
 
 .footer .btn.btn-social {

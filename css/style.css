@@ -1,9 +1,18 @@
 /********** Template CSS **********/
 :root {
   --primary: #6222CC;
-  --secondary: #FBA504;
+  --secondary: #ff9900;
   --light: #F6F4F9;
   --dark: #04000B;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0%;
+}
+
+.sub {
+  color: var(--primary) !important;
 }
 
 /*** Spinner ***/
@@ -25,8 +34,8 @@
 .back-to-top {
   position: fixed;
   display: none;
-  right: 45px;
-  bottom: 45px;
+  right: 30px;
+  bottom: 90px;
   z-index: 99;
 }
 
@@ -151,6 +160,7 @@ h6,
   }
   .navbar-light .logo1 {
     display: block;
+    width: 140px;
   }
   .navbar-light .logo {
     display: none;
@@ -191,6 +201,7 @@ h6,
   }
   .navbar-light .logo {
     display: block;
+    width: 180px;
   }
   .sticky-top.navbar-light {
     position: fixed;
@@ -331,6 +342,19 @@ h6,
   background: url(../img/blob-top-left.png), url(../img/blob-top-right.png), url(../img/blob-bottom-left.png), url(../img/blob-bottom-right.png), url(../img/blob-center.png);
   background-position: left 0px top 0px, right 0px top 0px, left 0px bottom 0px, right 0px bottom 0px, center center;
   background-repeat: no-repeat;
+}
+
+/** Disabled **/
+.project {
+  display: none !important;
+}
+
+.team {
+  display: none !important;
+}
+
+.testimonial {
+  display: none !important;
 }
 
 /*** Service ***/
@@ -531,6 +555,26 @@ h6,
   background: url(../img/bg-top.png), url(../img/map.png);
   background-position: center top, center center;
   background-repeat: no-repeat;
+}
+
+.footer .select {
+  /* styling */
+  background-color: rgba(255, 255, 255, 0.116);
+  border: none;
+  border-radius: 4px;
+  display: inline-block;
+  font: inherit;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  /* reset */
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.footer .select img {
+  width: 30px;
 }
 
 .footer .btn.btn-social {
