@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://megdev.net/</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://megdev.net/index.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/about.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/service.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/testimonial.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/quota.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/contact.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/about</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/service</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/testimonial</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/quota</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/contact</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/index.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/about.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/service.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/testimonial.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/quota.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://megdev.net/fr-fr/contact.html</loc>
+  <lastmod>2022-05-21T22:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
